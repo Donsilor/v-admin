@@ -1,0 +1,16 @@
+.vehiclelicense-table .nonreg{text-decoration: underline!important;color: #ff0000;}
+.vehiclelicense-table .black{background-color: #000;}
+.vehiclelicense-table .green{background-color: #32b16c;}
+.vehiclelicense-table .blue{background-color: #00479d;}
+.vehiclelicense-table .rd{background-color: #e60012;}
+.vehiclelicense-table .brown{background-color: #7e6b5a;}
+.vehiclelicense-table .col{display:block;width: 30px;height: 30px;border-radius:5px;line-height: 30px;margin:0 auto;}
+.result .tab .vehiclelicense-table tr th:first-child{width:3%;}
+
+
+
+
+
+
+
+
